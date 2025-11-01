@@ -1,0 +1,7 @@
+# Fichier : safice_api/.gitignore
+
+# Ignore le dossier de l'environnement virtuel Python (venv)
+venv/
+
+# Ignore la clé de sécurité critique de Firebase Admin SDK
+serviceAccountKey.json
