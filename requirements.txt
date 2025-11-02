@@ -1,4 +1,8 @@
-
+fastapi
+uvicorn
+firebase-admin
+python-dotenv
+pydantic
 bcc==0.29.1
 bcrypt==3.2.2
 beautifulsoup4==4.12.3
@@ -82,8 +86,4 @@ xkit==0.0.0
 zorin-appearance==5.3
 zorin-connect==1.2
 zorin-exec-guard==1.5
-fastapi
-uvicorn
-firebase-admin
-python-dotenv
-pydantic
+
