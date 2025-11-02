@@ -5,3 +5,4 @@ venv/
 
 # Ignore la clé de sécurité critique de Firebase Admin SDK
 serviceAccountKey.json
+serviceAccountKey.json
